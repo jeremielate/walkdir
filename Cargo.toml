@@ -10,6 +10,10 @@ readme = "README.md"
 keywords = ["directory", "recursive", "walk", "iterator"]
 license = "Unlicense/MIT"
 
+[badges]
+travis-ci = { repository = "jeremielate/walkdir" }
+appveyor = { repository = "jeremielate/walkdir" }
+
 [dependencies]
 same-file = "0.1.1"
 
